@@ -1,0 +1,15 @@
+.main{
+     padding-top: 50px;
+    display:flex;
+    width: 1170px;
+    margin: auto;
+    
+}
+.sub{
+   
+   border: 2px solid seagreen;
+    margin: 10px;
+    height: 350px;
+    width: 500px;
+    background: #ccc;
+}
